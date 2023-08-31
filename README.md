@@ -25,7 +25,5 @@ A Python script to rename files in a directory by removing anything after the "@
 
 ## License
 
-This project is licensed under the MIT License - see the (https://opensource.org/license/mit/) file for details.
-```
+This project is licensed under the MIT License - see the https://opensource.org/license/mit/ file for details.
 
-Simply copy and paste this content into a file named `README.md` in the root of your repository. Make sure to replace `rename_files.py` with the actual name of your Python script if it's different. Additionally, if you have a `LICENSE` file, make sure it's in the repository so that the license section in the `README.md` points to it.
